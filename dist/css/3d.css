@@ -13,13 +13,7 @@ body {
     background-color: #ffffff;
     margin: 0;    
     background-color:#000;
-    /*background-image:url(../img/Kites.jpg);*/
-    /*background-image:url(../img/VB.jpg);*/
-    /*background-image:url(../img/bg/DR2.jpg);*/
-    /*background-image:url(../img/DR2F.jpg);*/
-    /*background-image:url(../img/wall.jpg);*/
-    /*background-image:url(../img/denravi.jpg);*/
-    background-image:url(../img/bg/POF.jpg);
+    background-image:url(../img/bg/bg.jpg);
     background-attachment: fixed;    
     background-size: cover;
 }
